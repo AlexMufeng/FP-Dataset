@@ -1,0 +1,38 @@
+{
+    "nodes": {
+        "89049": {
+            "AIRLINE_CODE": "MU583",
+            "FLIGHT_ID": 89049,
+            "DEPARTURE_AIRPORT": "重庆江北国际机场",
+            "ARRIVAL_AIRPORT": "上海浦东国际机场",
+            "TIME_DEPARTURE": "2:09:00",
+            "TIME_ARRIVAL": "2:11:15",
+            "CITY_DEPARTURE": "重庆",
+            "CITY_ARRIVAL": "上海",
+            "MODE": "346"
+        },
+        "89050": {
+            "AIRLINE_CODE": "MU583",
+            "FLIGHT_ID": 89050,
+            "DEPARTURE_AIRPORT": "重庆江北国际机场",
+            "ARRIVAL_AIRPORT": "上海浦东国际机场",
+            "TIME_DEPARTURE": "4:09:00",
+            "TIME_ARRIVAL": "4:11:15",
+            "CITY_DEPARTURE": "重庆",
+            "CITY_ARRIVAL": "上海",
+            "MODE": "346"
+        },
+        "89051": {
+            "AIRLINE_CODE": "MU583",
+            "FLIGHT_ID": 89051,
+            "DEPARTURE_AIRPORT": "重庆江北国际机场",
+            "ARRIVAL_AIRPORT": "上海浦东国际机场",
+            "TIME_DEPARTURE": "6:09:00",
+            "TIME_ARRIVAL": "6:11:15",
+            "CITY_DEPARTURE": "重庆",
+            "CITY_ARRIVAL": "上海",
+            "MODE": "346"
+        }
+    },
+    "edges": {}
+}

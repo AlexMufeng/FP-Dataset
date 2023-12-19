@@ -1,0 +1,212 @@
+{
+    "nodes": {
+        "20531": {
+            "AIRLINE_CODE": "ZH1357",
+            "FLIGHT_ID": 20531,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "深圳宝安国际机场",
+            "TIME_DEPARTURE": "2:15:35",
+            "TIME_ARRIVAL": "2:18:40",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "深圳",
+            "MODE": "77S"
+        },
+        "20532": {
+            "AIRLINE_CODE": "ZH1357",
+            "FLIGHT_ID": 20532,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "深圳宝安国际机场",
+            "TIME_DEPARTURE": "3:15:35",
+            "TIME_ARRIVAL": "3:18:40",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "深圳",
+            "MODE": "77S"
+        },
+        "20533": {
+            "AIRLINE_CODE": "CA1357",
+            "FLIGHT_ID": 20533,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "深圳宝安国际机场",
+            "TIME_DEPARTURE": "2:15:35",
+            "TIME_ARRIVAL": "2:18:40",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "深圳",
+            "MODE": "77S"
+        },
+        "20534": {
+            "AIRLINE_CODE": "CA1357",
+            "FLIGHT_ID": 20534,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "深圳宝安国际机场",
+            "TIME_DEPARTURE": "3:15:35",
+            "TIME_ARRIVAL": "3:18:40",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "深圳",
+            "MODE": "77S"
+        },
+        "69678": {
+            "AIRLINE_CODE": "ZH1358",
+            "FLIGHT_ID": 69678,
+            "DEPARTURE_AIRPORT": "深圳宝安国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:20:00",
+            "TIME_ARRIVAL": "2:23:05",
+            "CITY_DEPARTURE": "深圳",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "77S"
+        },
+        "69679": {
+            "AIRLINE_CODE": "ZH1358",
+            "FLIGHT_ID": 69679,
+            "DEPARTURE_AIRPORT": "深圳宝安国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "3:20:00",
+            "TIME_ARRIVAL": "3:23:05",
+            "CITY_DEPARTURE": "深圳",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "77S"
+        },
+        "69680": {
+            "AIRLINE_CODE": "ZH1358",
+            "FLIGHT_ID": 69680,
+            "DEPARTURE_AIRPORT": "深圳宝安国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "5:20:00",
+            "TIME_ARRIVAL": "5:23:05",
+            "CITY_DEPARTURE": "深圳",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "77S"
+        },
+        "69681": {
+            "AIRLINE_CODE": "CA1358",
+            "FLIGHT_ID": 69681,
+            "DEPARTURE_AIRPORT": "深圳宝安国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:20:00",
+            "TIME_ARRIVAL": "2:23:05",
+            "CITY_DEPARTURE": "深圳",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "77S"
+        },
+        "69682": {
+            "AIRLINE_CODE": "CA1358",
+            "FLIGHT_ID": 69682,
+            "DEPARTURE_AIRPORT": "深圳宝安国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "3:20:00",
+            "TIME_ARRIVAL": "3:23:05",
+            "CITY_DEPARTURE": "深圳",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "77S"
+        },
+        "69683": {
+            "AIRLINE_CODE": "CA1358",
+            "FLIGHT_ID": 69683,
+            "DEPARTURE_AIRPORT": "深圳宝安国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "5:20:00",
+            "TIME_ARRIVAL": "5:23:05",
+            "CITY_DEPARTURE": "深圳",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "77S"
+        }
+    },
+    "edges": {
+        "20531_69678": {
+            "from": 20531,
+            "to": 69678
+        },
+        "20531_69679": {
+            "from": 20531,
+            "to": 69679
+        },
+        "20531_69680": {
+            "from": 20531,
+            "to": 69680
+        },
+        "20531_69681": {
+            "from": 20531,
+            "to": 69681
+        },
+        "20531_69682": {
+            "from": 20531,
+            "to": 69682
+        },
+        "20531_69683": {
+            "from": 20531,
+            "to": 69683
+        },
+        "20532_69679": {
+            "from": 20532,
+            "to": 69679
+        },
+        "20532_69680": {
+            "from": 20532,
+            "to": 69680
+        },
+        "20532_69682": {
+            "from": 20532,
+            "to": 69682
+        },
+        "20532_69683": {
+            "from": 20532,
+            "to": 69683
+        },
+        "20533_69678": {
+            "from": 20533,
+            "to": 69678
+        },
+        "20533_69679": {
+            "from": 20533,
+            "to": 69679
+        },
+        "20533_69680": {
+            "from": 20533,
+            "to": 69680
+        },
+        "20533_69681": {
+            "from": 20533,
+            "to": 69681
+        },
+        "20533_69682": {
+            "from": 20533,
+            "to": 69682
+        },
+        "20533_69683": {
+            "from": 20533,
+            "to": 69683
+        },
+        "20534_69679": {
+            "from": 20534,
+            "to": 69679
+        },
+        "20534_69680": {
+            "from": 20534,
+            "to": 69680
+        },
+        "20534_69682": {
+            "from": 20534,
+            "to": 69682
+        },
+        "20534_69683": {
+            "from": 20534,
+            "to": 69683
+        },
+        "69678_20532": {
+            "from": 69678,
+            "to": 20532
+        },
+        "69678_20534": {
+            "from": 69678,
+            "to": 20534
+        },
+        "69681_20532": {
+            "from": 69681,
+            "to": 20532
+        },
+        "69681_20534": {
+            "from": 69681,
+            "to": 20534
+        }
+    }
+}

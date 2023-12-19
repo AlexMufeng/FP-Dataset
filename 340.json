@@ -1,0 +1,142 @@
+{
+    "nodes": {
+        "19205": {
+            "AIRLINE_CODE": "ZH4110",
+            "FLIGHT_ID": 19205,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "成都双流国际机场",
+            "TIME_DEPARTURE": "2:19:00",
+            "TIME_ARRIVAL": "2:22:00",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "成都",
+            "MODE": "340"
+        },
+        "19213": {
+            "AIRLINE_CODE": "CA4110",
+            "FLIGHT_ID": 19213,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "成都双流国际机场",
+            "TIME_DEPARTURE": "2:19:00",
+            "TIME_ARRIVAL": "2:22:00",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "成都",
+            "MODE": "340"
+        },
+        "42937": {
+            "AIRLINE_CODE": "ZH4306",
+            "FLIGHT_ID": 42937,
+            "DEPARTURE_AIRPORT": "广州新白云国际机场",
+            "ARRIVAL_AIRPORT": "成都双流国际机场",
+            "TIME_DEPARTURE": "2:11:30",
+            "TIME_ARRIVAL": "2:13:55",
+            "CITY_DEPARTURE": "广州",
+            "CITY_ARRIVAL": "成都",
+            "MODE": "340"
+        },
+        "42945": {
+            "AIRLINE_CODE": "CA4306",
+            "FLIGHT_ID": 42945,
+            "DEPARTURE_AIRPORT": "广州新白云国际机场",
+            "ARRIVAL_AIRPORT": "成都双流国际机场",
+            "TIME_DEPARTURE": "2:11:30",
+            "TIME_ARRIVAL": "2:13:55",
+            "CITY_DEPARTURE": "广州",
+            "CITY_ARRIVAL": "成都",
+            "MODE": "340"
+        },
+        "47220": {
+            "AIRLINE_CODE": "ZH4109",
+            "FLIGHT_ID": 47220,
+            "DEPARTURE_AIRPORT": "成都双流国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:15:00",
+            "TIME_ARRIVAL": "2:17:40",
+            "CITY_DEPARTURE": "成都",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "340"
+        },
+        "47228": {
+            "AIRLINE_CODE": "CA4109",
+            "FLIGHT_ID": 47228,
+            "DEPARTURE_AIRPORT": "成都双流国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:15:00",
+            "TIME_ARRIVAL": "2:17:40",
+            "CITY_DEPARTURE": "成都",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "340"
+        },
+        "47890": {
+            "AIRLINE_CODE": "ZH4305",
+            "FLIGHT_ID": 47890,
+            "DEPARTURE_AIRPORT": "成都双流国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "2:07:55",
+            "TIME_ARRIVAL": "2:10:10",
+            "CITY_DEPARTURE": "成都",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "340"
+        },
+        "47898": {
+            "AIRLINE_CODE": "CA4305",
+            "FLIGHT_ID": 47898,
+            "DEPARTURE_AIRPORT": "成都双流国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "2:07:55",
+            "TIME_ARRIVAL": "2:10:10",
+            "CITY_DEPARTURE": "成都",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "340"
+        }
+    },
+    "edges": {
+        "42937_47220": {
+            "from": 42937,
+            "to": 47220
+        },
+        "42937_47228": {
+            "from": 42937,
+            "to": 47228
+        },
+        "42945_47220": {
+            "from": 42945,
+            "to": 47220
+        },
+        "42945_47228": {
+            "from": 42945,
+            "to": 47228
+        },
+        "47220_19205": {
+            "from": 47220,
+            "to": 19205
+        },
+        "47220_19213": {
+            "from": 47220,
+            "to": 19213
+        },
+        "47228_19205": {
+            "from": 47228,
+            "to": 19205
+        },
+        "47228_19213": {
+            "from": 47228,
+            "to": 19213
+        },
+        "47890_42937": {
+            "from": 47890,
+            "to": 42937
+        },
+        "47890_42945": {
+            "from": 47890,
+            "to": 42945
+        },
+        "47898_42937": {
+            "from": 47898,
+            "to": 42937
+        },
+        "47898_42945": {
+            "from": 47898,
+            "to": 42945
+        }
+    }
+}

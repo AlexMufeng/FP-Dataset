@@ -1,0 +1,367 @@
+{
+    "nodes": {
+        "18823": {
+            "AIRLINE_CODE": "CZ3122",
+            "FLIGHT_ID": 18823,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "1:17:30",
+            "TIME_ARRIVAL": "1:20:45",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "787"
+        },
+        "18824": {
+            "AIRLINE_CODE": "CZ3122",
+            "FLIGHT_ID": 18824,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "2:17:30",
+            "TIME_ARRIVAL": "2:20:45",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "787"
+        },
+        "18825": {
+            "AIRLINE_CODE": "CZ3122",
+            "FLIGHT_ID": 18825,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "3:17:30",
+            "TIME_ARRIVAL": "3:20:45",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "787"
+        },
+        "18826": {
+            "AIRLINE_CODE": "CZ3122",
+            "FLIGHT_ID": 18826,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "4:17:30",
+            "TIME_ARRIVAL": "4:20:45",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "787"
+        },
+        "18827": {
+            "AIRLINE_CODE": "CZ3122",
+            "FLIGHT_ID": 18827,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "5:17:30",
+            "TIME_ARRIVAL": "5:20:45",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "787"
+        },
+        "18828": {
+            "AIRLINE_CODE": "CZ3122",
+            "FLIGHT_ID": 18828,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "6:17:30",
+            "TIME_ARRIVAL": "6:20:45",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "787"
+        },
+        "18829": {
+            "AIRLINE_CODE": "CZ3122",
+            "FLIGHT_ID": 18829,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "广州新白云国际机场",
+            "TIME_DEPARTURE": "7:17:30",
+            "TIME_ARRIVAL": "7:20:45",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "广州",
+            "MODE": "787"
+        },
+        "21488": {
+            "AIRLINE_CODE": "HU496",
+            "FLIGHT_ID": 21488,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "西安咸阳国际机场",
+            "TIME_DEPARTURE": "2:20:05",
+            "TIME_ARRIVAL": "2:22:10",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "西安",
+            "MODE": "787"
+        },
+        "21489": {
+            "AIRLINE_CODE": "HU496",
+            "FLIGHT_ID": 21489,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "西安咸阳国际机场",
+            "TIME_DEPARTURE": "6:20:05",
+            "TIME_ARRIVAL": "6:22:10",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "西安",
+            "MODE": "787"
+        },
+        "41617": {
+            "AIRLINE_CODE": "CZ3103",
+            "FLIGHT_ID": 41617,
+            "DEPARTURE_AIRPORT": "广州新白云国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "1:12:00",
+            "TIME_ARRIVAL": "1:14:55",
+            "CITY_DEPARTURE": "广州",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "787"
+        },
+        "41618": {
+            "AIRLINE_CODE": "CZ3103",
+            "FLIGHT_ID": 41618,
+            "DEPARTURE_AIRPORT": "广州新白云国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:12:00",
+            "TIME_ARRIVAL": "2:14:55",
+            "CITY_DEPARTURE": "广州",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "787"
+        },
+        "41619": {
+            "AIRLINE_CODE": "CZ3103",
+            "FLIGHT_ID": 41619,
+            "DEPARTURE_AIRPORT": "广州新白云国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "3:12:00",
+            "TIME_ARRIVAL": "3:14:55",
+            "CITY_DEPARTURE": "广州",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "787"
+        },
+        "41620": {
+            "AIRLINE_CODE": "CZ3103",
+            "FLIGHT_ID": 41620,
+            "DEPARTURE_AIRPORT": "广州新白云国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "4:12:00",
+            "TIME_ARRIVAL": "4:14:55",
+            "CITY_DEPARTURE": "广州",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "787"
+        },
+        "41621": {
+            "AIRLINE_CODE": "CZ3103",
+            "FLIGHT_ID": 41621,
+            "DEPARTURE_AIRPORT": "广州新白云国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "5:12:00",
+            "TIME_ARRIVAL": "5:14:55",
+            "CITY_DEPARTURE": "广州",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "787"
+        },
+        "41622": {
+            "AIRLINE_CODE": "CZ3103",
+            "FLIGHT_ID": 41622,
+            "DEPARTURE_AIRPORT": "广州新白云国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "7:12:00",
+            "TIME_ARRIVAL": "7:14:55",
+            "CITY_DEPARTURE": "广州",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "787"
+        }
+    },
+    "edges": {
+        "18823_41618": {
+            "from": 18823,
+            "to": 41618
+        },
+        "18823_41619": {
+            "from": 18823,
+            "to": 41619
+        },
+        "18823_41620": {
+            "from": 18823,
+            "to": 41620
+        },
+        "18823_41621": {
+            "from": 18823,
+            "to": 41621
+        },
+        "18823_41622": {
+            "from": 18823,
+            "to": 41622
+        },
+        "18824_41619": {
+            "from": 18824,
+            "to": 41619
+        },
+        "18824_41620": {
+            "from": 18824,
+            "to": 41620
+        },
+        "18824_41621": {
+            "from": 18824,
+            "to": 41621
+        },
+        "18824_41622": {
+            "from": 18824,
+            "to": 41622
+        },
+        "18825_41620": {
+            "from": 18825,
+            "to": 41620
+        },
+        "18825_41621": {
+            "from": 18825,
+            "to": 41621
+        },
+        "18825_41622": {
+            "from": 18825,
+            "to": 41622
+        },
+        "18826_41621": {
+            "from": 18826,
+            "to": 41621
+        },
+        "18826_41622": {
+            "from": 18826,
+            "to": 41622
+        },
+        "18827_41622": {
+            "from": 18827,
+            "to": 41622
+        },
+        "18828_41622": {
+            "from": 18828,
+            "to": 41622
+        },
+        "41617_18823": {
+            "from": 41617,
+            "to": 18823
+        },
+        "41617_18824": {
+            "from": 41617,
+            "to": 18824
+        },
+        "41617_18825": {
+            "from": 41617,
+            "to": 18825
+        },
+        "41617_18826": {
+            "from": 41617,
+            "to": 18826
+        },
+        "41617_18827": {
+            "from": 41617,
+            "to": 18827
+        },
+        "41617_18828": {
+            "from": 41617,
+            "to": 18828
+        },
+        "41617_18829": {
+            "from": 41617,
+            "to": 18829
+        },
+        "41617_21488": {
+            "from": 41617,
+            "to": 21488
+        },
+        "41617_21489": {
+            "from": 41617,
+            "to": 21489
+        },
+        "41618_18824": {
+            "from": 41618,
+            "to": 18824
+        },
+        "41618_18825": {
+            "from": 41618,
+            "to": 18825
+        },
+        "41618_18826": {
+            "from": 41618,
+            "to": 18826
+        },
+        "41618_18827": {
+            "from": 41618,
+            "to": 18827
+        },
+        "41618_18828": {
+            "from": 41618,
+            "to": 18828
+        },
+        "41618_18829": {
+            "from": 41618,
+            "to": 18829
+        },
+        "41618_21488": {
+            "from": 41618,
+            "to": 21488
+        },
+        "41618_21489": {
+            "from": 41618,
+            "to": 21489
+        },
+        "41619_18825": {
+            "from": 41619,
+            "to": 18825
+        },
+        "41619_18826": {
+            "from": 41619,
+            "to": 18826
+        },
+        "41619_18827": {
+            "from": 41619,
+            "to": 18827
+        },
+        "41619_18828": {
+            "from": 41619,
+            "to": 18828
+        },
+        "41619_18829": {
+            "from": 41619,
+            "to": 18829
+        },
+        "41619_21489": {
+            "from": 41619,
+            "to": 21489
+        },
+        "41620_18826": {
+            "from": 41620,
+            "to": 18826
+        },
+        "41620_18827": {
+            "from": 41620,
+            "to": 18827
+        },
+        "41620_18828": {
+            "from": 41620,
+            "to": 18828
+        },
+        "41620_18829": {
+            "from": 41620,
+            "to": 18829
+        },
+        "41620_21489": {
+            "from": 41620,
+            "to": 21489
+        },
+        "41621_18827": {
+            "from": 41621,
+            "to": 18827
+        },
+        "41621_18828": {
+            "from": 41621,
+            "to": 18828
+        },
+        "41621_18829": {
+            "from": 41621,
+            "to": 18829
+        },
+        "41621_21489": {
+            "from": 41621,
+            "to": 21489
+        },
+        "41622_18829": {
+            "from": 41622,
+            "to": 18829
+        }
+    }
+}

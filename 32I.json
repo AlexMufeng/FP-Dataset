@@ -1,0 +1,71 @@
+{
+    "nodes": {
+        "36983": {
+            "AIRLINE_CODE": "GS6508",
+            "FLIGHT_ID": 36983,
+            "DEPARTURE_AIRPORT": "天津滨海国际机场",
+            "ARRIVAL_AIRPORT": "乌鲁木齐地窝堡国际机场",
+            "TIME_DEPARTURE": "2:17:15",
+            "TIME_ARRIVAL": "2:21:15",
+            "CITY_DEPARTURE": "天津",
+            "CITY_ARRIVAL": "乌鲁木齐",
+            "MODE": "32I"
+        },
+        "36984": {
+            "AIRLINE_CODE": "GS6508",
+            "FLIGHT_ID": 36984,
+            "DEPARTURE_AIRPORT": "天津滨海国际机场",
+            "ARRIVAL_AIRPORT": "乌鲁木齐地窝堡国际机场",
+            "TIME_DEPARTURE": "4:17:15",
+            "TIME_ARRIVAL": "4:21:15",
+            "CITY_DEPARTURE": "天津",
+            "CITY_ARRIVAL": "乌鲁木齐",
+            "MODE": "32I"
+        },
+        "36985": {
+            "AIRLINE_CODE": "GS6508",
+            "FLIGHT_ID": 36985,
+            "DEPARTURE_AIRPORT": "天津滨海国际机场",
+            "ARRIVAL_AIRPORT": "乌鲁木齐地窝堡国际机场",
+            "TIME_DEPARTURE": "6:17:15",
+            "TIME_ARRIVAL": "6:21:15",
+            "CITY_DEPARTURE": "天津",
+            "CITY_ARRIVAL": "乌鲁木齐",
+            "MODE": "32I"
+        },
+        "37245": {
+            "AIRLINE_CODE": "GS6507",
+            "FLIGHT_ID": 37245,
+            "DEPARTURE_AIRPORT": "天津滨海国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "2:13:45",
+            "TIME_ARRIVAL": "2:14:40",
+            "CITY_DEPARTURE": "天津",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "32I"
+        },
+        "37246": {
+            "AIRLINE_CODE": "GS6507",
+            "FLIGHT_ID": 37246,
+            "DEPARTURE_AIRPORT": "天津滨海国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "4:13:45",
+            "TIME_ARRIVAL": "4:14:40",
+            "CITY_DEPARTURE": "天津",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "32I"
+        },
+        "37247": {
+            "AIRLINE_CODE": "GS6507",
+            "FLIGHT_ID": 37247,
+            "DEPARTURE_AIRPORT": "天津滨海国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "6:13:45",
+            "TIME_ARRIVAL": "6:14:40",
+            "CITY_DEPARTURE": "天津",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "32I"
+        }
+    },
+    "edges": {}
+}

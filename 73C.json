@@ -1,0 +1,492 @@
+{
+    "nodes": {
+        "18159": {
+            "AIRLINE_CODE": "SC8904",
+            "FLIGHT_ID": 18159,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "2:11:45",
+            "TIME_ARRIVAL": "2:13:10",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "73C"
+        },
+        "18160": {
+            "AIRLINE_CODE": "SC8904",
+            "FLIGHT_ID": 18160,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "4:11:45",
+            "TIME_ARRIVAL": "4:13:10",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "73C"
+        },
+        "18161": {
+            "AIRLINE_CODE": "SC8904",
+            "FLIGHT_ID": 18161,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "6:11:45",
+            "TIME_ARRIVAL": "6:13:10",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "73C"
+        },
+        "18162": {
+            "AIRLINE_CODE": "ZH4618",
+            "FLIGHT_ID": 18162,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "2:11:45",
+            "TIME_ARRIVAL": "2:13:10",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "73C"
+        },
+        "18163": {
+            "AIRLINE_CODE": "ZH4618",
+            "FLIGHT_ID": 18163,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "4:11:45",
+            "TIME_ARRIVAL": "4:13:10",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "73C"
+        },
+        "18164": {
+            "AIRLINE_CODE": "ZH4618",
+            "FLIGHT_ID": 18164,
+            "DEPARTURE_AIRPORT": "北京首都国际机场",
+            "ARRIVAL_AIRPORT": "大连周水子国际机场",
+            "TIME_DEPARTURE": "6:11:45",
+            "TIME_ARRIVAL": "6:13:10",
+            "CITY_DEPARTURE": "北京",
+            "CITY_ARRIVAL": "大连",
+            "MODE": "73C"
+        },
+        "35418": {
+            "AIRLINE_CODE": "SC8903",
+            "FLIGHT_ID": 35418,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:09:25",
+            "TIME_ARRIVAL": "2:10:45",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35419": {
+            "AIRLINE_CODE": "SC8903",
+            "FLIGHT_ID": 35419,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "4:09:25",
+            "TIME_ARRIVAL": "4:10:45",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35420": {
+            "AIRLINE_CODE": "SC8903",
+            "FLIGHT_ID": 35420,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "6:09:25",
+            "TIME_ARRIVAL": "6:10:45",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35421": {
+            "AIRLINE_CODE": "ZH4617",
+            "FLIGHT_ID": 35421,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:09:25",
+            "TIME_ARRIVAL": "2:10:45",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35422": {
+            "AIRLINE_CODE": "ZH4617",
+            "FLIGHT_ID": 35422,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "4:09:25",
+            "TIME_ARRIVAL": "4:10:45",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35423": {
+            "AIRLINE_CODE": "ZH4617",
+            "FLIGHT_ID": 35423,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "6:09:25",
+            "TIME_ARRIVAL": "6:10:45",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35455": {
+            "AIRLINE_CODE": "SC8905",
+            "FLIGHT_ID": 35455,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:14:10",
+            "TIME_ARRIVAL": "2:15:35",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35456": {
+            "AIRLINE_CODE": "SC8905",
+            "FLIGHT_ID": 35456,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "4:14:10",
+            "TIME_ARRIVAL": "4:15:35",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35457": {
+            "AIRLINE_CODE": "SC8905",
+            "FLIGHT_ID": 35457,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "6:14:10",
+            "TIME_ARRIVAL": "6:15:35",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35458": {
+            "AIRLINE_CODE": "ZH4965",
+            "FLIGHT_ID": 35458,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "2:14:10",
+            "TIME_ARRIVAL": "2:15:35",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35459": {
+            "AIRLINE_CODE": "ZH4965",
+            "FLIGHT_ID": 35459,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "4:14:10",
+            "TIME_ARRIVAL": "4:15:35",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        },
+        "35460": {
+            "AIRLINE_CODE": "ZH4965",
+            "FLIGHT_ID": 35460,
+            "DEPARTURE_AIRPORT": "大连周水子国际机场",
+            "ARRIVAL_AIRPORT": "北京首都国际机场",
+            "TIME_DEPARTURE": "6:14:10",
+            "TIME_ARRIVAL": "6:15:35",
+            "CITY_DEPARTURE": "大连",
+            "CITY_ARRIVAL": "北京",
+            "MODE": "73C"
+        }
+    },
+    "edges": {
+        "18159_35419": {
+            "from": 18159,
+            "to": 35419
+        },
+        "18159_35420": {
+            "from": 18159,
+            "to": 35420
+        },
+        "18159_35422": {
+            "from": 18159,
+            "to": 35422
+        },
+        "18159_35423": {
+            "from": 18159,
+            "to": 35423
+        },
+        "18159_35455": {
+            "from": 18159,
+            "to": 35455
+        },
+        "18159_35456": {
+            "from": 18159,
+            "to": 35456
+        },
+        "18159_35457": {
+            "from": 18159,
+            "to": 35457
+        },
+        "18159_35458": {
+            "from": 18159,
+            "to": 35458
+        },
+        "18159_35459": {
+            "from": 18159,
+            "to": 35459
+        },
+        "18159_35460": {
+            "from": 18159,
+            "to": 35460
+        },
+        "18160_35420": {
+            "from": 18160,
+            "to": 35420
+        },
+        "18160_35423": {
+            "from": 18160,
+            "to": 35423
+        },
+        "18160_35456": {
+            "from": 18160,
+            "to": 35456
+        },
+        "18160_35457": {
+            "from": 18160,
+            "to": 35457
+        },
+        "18160_35459": {
+            "from": 18160,
+            "to": 35459
+        },
+        "18160_35460": {
+            "from": 18160,
+            "to": 35460
+        },
+        "18161_35457": {
+            "from": 18161,
+            "to": 35457
+        },
+        "18161_35460": {
+            "from": 18161,
+            "to": 35460
+        },
+        "18162_35419": {
+            "from": 18162,
+            "to": 35419
+        },
+        "18162_35420": {
+            "from": 18162,
+            "to": 35420
+        },
+        "18162_35422": {
+            "from": 18162,
+            "to": 35422
+        },
+        "18162_35423": {
+            "from": 18162,
+            "to": 35423
+        },
+        "18162_35455": {
+            "from": 18162,
+            "to": 35455
+        },
+        "18162_35456": {
+            "from": 18162,
+            "to": 35456
+        },
+        "18162_35457": {
+            "from": 18162,
+            "to": 35457
+        },
+        "18162_35458": {
+            "from": 18162,
+            "to": 35458
+        },
+        "18162_35459": {
+            "from": 18162,
+            "to": 35459
+        },
+        "18162_35460": {
+            "from": 18162,
+            "to": 35460
+        },
+        "18163_35420": {
+            "from": 18163,
+            "to": 35420
+        },
+        "18163_35423": {
+            "from": 18163,
+            "to": 35423
+        },
+        "18163_35456": {
+            "from": 18163,
+            "to": 35456
+        },
+        "18163_35457": {
+            "from": 18163,
+            "to": 35457
+        },
+        "18163_35459": {
+            "from": 18163,
+            "to": 35459
+        },
+        "18163_35460": {
+            "from": 18163,
+            "to": 35460
+        },
+        "18164_35457": {
+            "from": 18164,
+            "to": 35457
+        },
+        "18164_35460": {
+            "from": 18164,
+            "to": 35460
+        },
+        "35418_18159": {
+            "from": 35418,
+            "to": 18159
+        },
+        "35418_18160": {
+            "from": 35418,
+            "to": 18160
+        },
+        "35418_18161": {
+            "from": 35418,
+            "to": 18161
+        },
+        "35418_18162": {
+            "from": 35418,
+            "to": 18162
+        },
+        "35418_18163": {
+            "from": 35418,
+            "to": 18163
+        },
+        "35418_18164": {
+            "from": 35418,
+            "to": 18164
+        },
+        "35419_18160": {
+            "from": 35419,
+            "to": 18160
+        },
+        "35419_18161": {
+            "from": 35419,
+            "to": 18161
+        },
+        "35419_18163": {
+            "from": 35419,
+            "to": 18163
+        },
+        "35419_18164": {
+            "from": 35419,
+            "to": 18164
+        },
+        "35420_18161": {
+            "from": 35420,
+            "to": 18161
+        },
+        "35420_18164": {
+            "from": 35420,
+            "to": 18164
+        },
+        "35421_18159": {
+            "from": 35421,
+            "to": 18159
+        },
+        "35421_18160": {
+            "from": 35421,
+            "to": 18160
+        },
+        "35421_18161": {
+            "from": 35421,
+            "to": 18161
+        },
+        "35421_18162": {
+            "from": 35421,
+            "to": 18162
+        },
+        "35421_18163": {
+            "from": 35421,
+            "to": 18163
+        },
+        "35421_18164": {
+            "from": 35421,
+            "to": 18164
+        },
+        "35422_18160": {
+            "from": 35422,
+            "to": 18160
+        },
+        "35422_18161": {
+            "from": 35422,
+            "to": 18161
+        },
+        "35422_18163": {
+            "from": 35422,
+            "to": 18163
+        },
+        "35422_18164": {
+            "from": 35422,
+            "to": 18164
+        },
+        "35423_18161": {
+            "from": 35423,
+            "to": 18161
+        },
+        "35423_18164": {
+            "from": 35423,
+            "to": 18164
+        },
+        "35455_18160": {
+            "from": 35455,
+            "to": 18160
+        },
+        "35455_18161": {
+            "from": 35455,
+            "to": 18161
+        },
+        "35455_18163": {
+            "from": 35455,
+            "to": 18163
+        },
+        "35455_18164": {
+            "from": 35455,
+            "to": 18164
+        },
+        "35456_18161": {
+            "from": 35456,
+            "to": 18161
+        },
+        "35456_18164": {
+            "from": 35456,
+            "to": 18164
+        },
+        "35458_18160": {
+            "from": 35458,
+            "to": 18160
+        },
+        "35458_18161": {
+            "from": 35458,
+            "to": 18161
+        },
+        "35458_18163": {
+            "from": 35458,
+            "to": 18163
+        },
+        "35458_18164": {
+            "from": 35458,
+            "to": 18164
+        },
+        "35459_18161": {
+            "from": 35459,
+            "to": 18161
+        },
+        "35459_18164": {
+            "from": 35459,
+            "to": 18164
+        }
+    }
+}
